@@ -20,5 +20,3 @@ registries:
   username: "frogbot-dependabot"
   password: ${{secrets.JF_ART_PASSWD}}
   replaces-base: true
-
-
