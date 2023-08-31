@@ -7,7 +7,7 @@ version: 2
 updates:
  # Maintain dependencies for pipp
  - package-ecosystem: "pip"
-  directory: "/Pypi-depandabot-latest"
+  directory: "."
   schedule:
    interval: "daily"
   insecure-external-code-execution: allow
